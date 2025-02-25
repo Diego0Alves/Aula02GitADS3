@@ -1,2 +1,4 @@
-# Aula02GitADS3
-Aula, pratica no git
+# Aula GitHub
+Aula, pratica no git, repositório de exemplo
+
+Alteração efetuada na maquina
